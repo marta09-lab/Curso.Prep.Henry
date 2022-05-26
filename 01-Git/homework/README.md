@@ -18,7 +18,6 @@ Dentro de nuestra terminal podemos: revisar nuestra estructura de archivos, aña
 "List": Nos permite ver el contenido de la carpeta donde nos encontramos.
 ```bash
   $ ls
-```
 
 
 "Change Directory": Nos permite movernos a una nueva carpeta o "directorio"
@@ -52,8 +51,7 @@ Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 
 ```bash
   cd ~
-```
-
+"npm install"
 y presiona Enter. Una vez estés en el nivel superior, escribe:
 
 ```bash
